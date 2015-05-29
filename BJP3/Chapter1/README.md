@@ -12,3 +12,4 @@
 * 1.3 [WellFormed](WellFormed.java)
 * 1.4 [Difference](Difference.java)
 * 1.5 [MuchBetter](MuchBetter.java)
+* 1.6 [Meta](Meta.java)
