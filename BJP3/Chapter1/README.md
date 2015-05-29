@@ -13,3 +13,5 @@
 * 1.4 [Difference](Difference.java)
 * 1.5 [MuchBetter](MuchBetter.java)
 * 1.6 [Meta](Meta.java)
+* 1.7 [Mantra](Mantra.java)
+* 1.8 [Stewie2](Stewie2)
