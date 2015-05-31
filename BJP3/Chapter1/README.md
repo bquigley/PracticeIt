@@ -21,3 +21,5 @@
 * 1.12 [FightSong](FightSong.java)
 * 1.13 [StarFigures](StarFigures.java)
 * 1.14 [Lanterns](Lanterns.java)
+* 1.15 [EggStop](Eggstop.java)
+* 1.16 [Shining](Shining.java)
