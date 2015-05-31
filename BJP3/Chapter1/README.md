@@ -14,4 +14,5 @@
 * 1.5 [MuchBetter](MuchBetter.java)
 * 1.6 [Meta](Meta.java)
 * 1.7 [Mantra](Mantra.java)
-* 1.8 [Stewie2](Stewie2)
+* 1.8 [Stewie2](Stewie2.java)
+* 1.9 [Egg](Egg.java)
