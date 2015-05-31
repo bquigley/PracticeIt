@@ -18,3 +18,5 @@
 * 1.9  [Egg](Egg.java)
 * 1.10 [Egg2](Egg2.java)
 * 1.11 [TwoRockets](TwoRockets.java)
+* 1.12 [FightSong](FightSong.java)
+* 1.13 [StarFigures](StarFigures.java)
