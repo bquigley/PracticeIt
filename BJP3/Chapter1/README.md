@@ -20,3 +20,4 @@
 * 1.11 [TwoRockets](TwoRockets.java)
 * 1.12 [FightSong](FightSong.java)
 * 1.13 [StarFigures](StarFigures.java)
+* 1.14 [Lanterns](Lanterns.java)
