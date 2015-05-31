@@ -6,6 +6,7 @@
 * 1.3  [binary2](binary2.java)
 * 1.9  [Archie](Archie.java)
 * 1.23 [Strange](Strange.java)
+
 ### Exercise
 * 1.1  [Stewie](Stewie.java)
 * 1.2  [Spikey](Spikey.java)
