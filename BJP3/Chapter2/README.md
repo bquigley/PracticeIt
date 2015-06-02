@@ -3,6 +3,9 @@
 ## Chapter2: Primitive Data and Definite Loops
 
 ### Self-Check
+* 2.4  [expression3](expression3.java)
+
+
 
 ### Exercise
 * 2.1  [displacement](displacement.java)
