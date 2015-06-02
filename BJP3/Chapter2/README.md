@@ -7,3 +7,4 @@
 ### Exercise
 * 2.1  [displacement](displacement.java)
 * 2.2  [loopSquares](loopSquares.java)
+* 2.3  [fibonacci](fibonacci.java)
