@@ -17,3 +17,12 @@
 * 2.7  [spacedNumbers](spacedNumbers.java)
 * 2.8  [spacesAndNumbers](spacesAndNumbers.java)
 * 2.9  [waveNumbers40](waveNumbers40.java)
+* 2.10 [numbersOutput60](numbersOutput60.java)
+* 2.11 [numbersOutputConstant](NumbersOutput.java)
+* 2.12 [nestedNumbers](nestedNumbers.java)
+* 2.13 [nestedNumbers2](nestedNumbers2.java)
+* 2.14 [nestedNumbers3](nestedNumbers3.java)
+* 2.15 [printDesign](printDesign.java)
+* 2.16 [SlashFigure](SlashFigure.java)
+* 2.17 [SlashFigure2](SlashFigure2.java)
+
