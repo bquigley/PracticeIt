@@ -14,3 +14,6 @@
 * 2.4  [starSquare](starSquare.java)
 * 2.5  [starTriangle](starTriangle.java)
 * 2.6  [numberTriangle](numberTriangle.java)
+* 2.7  [spacedNumbers](spacedNumbers.java)
+* 2.8  [spacesAndNumbers](spacesAndNumbers.java)
+* 2.9  [waveNumbers40](waveNumbers40.java)
