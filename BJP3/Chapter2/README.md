@@ -12,3 +12,5 @@
 * 2.2  [loopSquares](loopSquares.java)
 * 2.3  [fibonacci](fibonacci.java)
 * 2.4  [starSquare](starSquare.java)
+* 2.5  [starTriangle](starTriangle.java)
+* 2.6  [numberTriangle](numberTriangle.java)
