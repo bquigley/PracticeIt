@@ -25,4 +25,10 @@
 * 2.15 [printDesign](printDesign.java)
 * 2.16 [SlashFigure](SlashFigure.java)
 * 2.17 [SlashFigure2](SlashFigure2.java)
+* 2.18 [pseudocodeWindow](Window.java)
+* 2.19 [Window](Window.jaa)
+* 2.20 [StarFigure](StarFigure.java)
+* 2.21 [StarFigure2](StarFigure2.java)
+* 2.22 [DollarFigure](DollarFigure.java)
+* 2.23 [DollarFigure2](DollarFigure2.java)
 
