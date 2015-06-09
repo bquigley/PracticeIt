@@ -22,3 +22,11 @@
 * 3.13 [pay](pay.java)
 * 3.14 [cylinderSurfaceArea](cylinderSurfaceArea.java)
 * 3.15 [sphereVolume](sphereVolume.java)
+* 3.16 [triangleArea](triangleArea.java)
+* 3.17 [padString](padString.java)
+* 3.18 [vertical](vertical.java)
+* 3.19 [printReverse](printReverse.java)
+* 3.20 [inputBirthday](inputBirthday.java)
+* 3.21 [processName](processName.java)
+* 3.22 [CollegeAdmit](CollegeAdmit.java)
+
