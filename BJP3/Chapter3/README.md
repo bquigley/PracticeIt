@@ -17,3 +17,5 @@
 * 3.8  [quadratic](quadratic.java)
 * 3.9  [lastDigit](lastDigit.java)
 * 3.10 [area](area.java)
+* 3.11 [distance](distance.java)
+* 3.12 [scientific](scientific.java)
