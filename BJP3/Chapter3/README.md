@@ -19,3 +19,6 @@
 * 3.10 [area](area.java)
 * 3.11 [distance](distance.java)
 * 3.12 [scientific](scientific.java)
+* 3.13 [pay](pay.java)
+* 3.14 [cylinderSurfaceArea](cylinderSurfaceArea.java)
+* 3.15 [sphereVolume](sphereVolume.java)
