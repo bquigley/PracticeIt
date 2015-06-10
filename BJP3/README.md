@@ -19,3 +19,6 @@
 ### [Chapter 16: Linked Lists](Chapter16/README.md)
 ### [Chapter 17: Binary Trees](Chapter17/README.md)
 ### [Chapter 18: Advanced Data Structures](Chapter18/README.md)
+
+
+[Supplements](http://www.buildingjavaprograms.com/supplements3.shtml)
