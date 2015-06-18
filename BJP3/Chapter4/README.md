@@ -12,4 +12,10 @@
 + 4.7  [xo](xo.java)
 + 4.8  [smallestLargest](smallestLargest.java)
 + 4.9  [evenSumMax](evenSumMax.java)
++ 4.10 [printGPA](printGPA.java)
+* 4.11 [longestName](longestName.java)
+* 4.12 [printTriangleType](printTriangleType.java)
+* 4.13 [average](average.java)
+* 4.14 [pow2](pow2.java)
+* 4.15 [getGrade](getGrade.java)
 
