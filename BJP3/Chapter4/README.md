@@ -18,4 +18,6 @@
 * 4.13 [average](average.java)
 * 4.14 [pow2](pow2.java)
 * 4.15 [getGrade](getGrade.java)
+* 4.16 [printPalindrome](printPalindrome.java)
+* 4.17 [swapPairs](swapPairs.java)
 
