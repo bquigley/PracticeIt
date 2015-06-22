@@ -20,4 +20,5 @@
 * 4.15 [getGrade](getGrade.java)
 * 4.16 [printPalindrome](printPalindrome.java)
 * 4.17 [swapPairs](swapPairs.java)
-
+* 4.18 [wordCount](wordCount.java)
+* 4.19 [quadrant](quadrant.java)
