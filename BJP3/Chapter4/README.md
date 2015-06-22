@@ -22,3 +22,6 @@
 * 4.17 [swapPairs](swapPairs.java)
 * 4.18 [wordCount](wordCount.java)
 * 4.19 [quadrant](quadrant.java)
+* 4.20 [numUnique](numUnique.java)
+* 4.21 [perfectNumbers](perfectNumbers.java)
+
