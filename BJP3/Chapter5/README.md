@@ -8,3 +8,7 @@
 * 5.3  [toBinary](toBinary.java)
 * 5.4  [randomX](randomX.java)
 * 5.5  [randomLines](randomLines.java)
+* 5.6  [makeGuesses](makeGuesses.java)
+* 5.7  [diceSum](diceSum.java)
+* 5.8  [randomWalk](randomWalk.java)
+* 5.9  [printFactors](printFactors.java)
