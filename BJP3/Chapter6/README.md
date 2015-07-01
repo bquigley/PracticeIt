@@ -2,6 +2,14 @@
 
 ## Chapter 6: File Processing
 
+### Self-Check
+* 6.15 [PrintMyself](PrintMyself.java)
+* 6.16 [printEntireFile](printEntireFile.java)
+* 6.17 [printBox](printBox.java)
+* 6.20 [getFileName](getFileName.java)
+* 6.21 [printEntireFile2](printEntireFile2.java)
+
+
 ### Excercise
 
 * 6.1 [boyGirl](boyGirl.java)
