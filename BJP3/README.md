@@ -6,7 +6,7 @@
 ### [Supplement 3G: Graphics](Supplement3G/README.md)
 ### [Chapter 4: Conditional Execution](Chapter4/README.md)
 ### [Chapter 5: Program Logic and Indefinite Loops](Chapter5/README.md)
-### [Chapter 6: File Processing](Chapter7/README.md)
+### [Chapter 6: File Processing](Chapter6/README.md)
 ### [Chapter 7: Arrays](Chapter7/README.md)
 ### [Chapter 8: Classes](Chapter8/README.md)
 ### [Chapter 9: Inheritance and Interfaces](Chapter9/README.md)
