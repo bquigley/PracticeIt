@@ -1,5 +1,7 @@
 # Building Java Program, 3rd edition
 
+## Chapter 7: Arrays
+
 ### Excercise
 
 * 7.1 [lastIndexOf](lastIndexOf.java)
