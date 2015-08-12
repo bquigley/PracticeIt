@@ -13,7 +13,7 @@
 ### [Chapter 10: ArrayLists](Chapter10/README.md)
 ### [Chapter 11: Java Collections Framework](Chapter11/README.md)
 ### [Chapter 12: Recursion](Chapter12/README.md)
-### [Chapter 13: Searching and Sorting](Chapter13/README.md)
+### Chapter 13: Searching and Sorting (no programming excercise)
 ### [Chapter 14: Stacks and Queues](Chapter14/README.md)
 ### [Chapter 15: Implementing a Collection Class](Chapter15/README.md)
 ### [Chapter 16: Linked Lists](Chapter16/README.md)
