@@ -1,6 +1,6 @@
 # Building Java Program, 3rd edition
 
-## Chapter 15 [Implementing](Implementing.java) a Collection Class
+## Chapter 15: Implementing a Collection Class
 
 ### Excercise
 
